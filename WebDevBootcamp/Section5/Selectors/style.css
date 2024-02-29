@@ -1,0 +1,24 @@
+/* Element Selector */
+h2{
+    color: red;
+}
+
+/*Class Selector */
+.green-heading{
+    color: green;
+}
+
+/* ID Selector */
+#blue-heading{
+    color:blue;
+}
+
+/* Attribute Selector */
+p[draggable="false"]{
+    color: turquoise;
+}
+
+/* Universal Selector */
+*{
+    color:blueviolet;
+}
